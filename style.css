@@ -1,0 +1,46 @@
+#autocomplete-input {
+    background-color: white !important;
+    border: 2px solid #f2f2f2 !important;
+    border-radius: 0px !important;
+    color: #757575 !important;
+    cursor: default !important;
+    font-family: arial,sans-serif !important;
+    font-size: 13px !important;
+    font-weight: bold !important;
+    margin: 11px 4px !important;
+    min-width: 54px !important;
+    padding: 0 16px !important;
+    text-align: left !important;
+}
+
+.grey {
+    color: #757575 !important;
+    font-weight: bold !important;
+}
+
+footer{
+    position:fixed;
+    display: flex;
+    justify-content: space-between;
+    bottom:0;
+    height: 51.6px;
+    background: #f2f2f2;
+    border-top: 1px solid #e4e4e4;
+    line-height: 40px;
+    width: 100%;
+}
+ 
+#footer{
+   margin: 0 20px;
+   font-family: arial,sans-serif;
+   font-size: 13px;
+   color: #666;
+}
+
+.nav-wrapper {
+    background-color: white;
+}
+
+a {
+    color: black !important;
+}
